@@ -1,0 +1,22 @@
+{
+  "name": "learnsass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ovelute53/LearnSass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ovelute53/LearnSass/issues"
+  },
+  "homepage": "https://github.com/ovelute53/LearnSass#readme",
+  "dependencies": {
+    "sass": "^1.57.1"
+  }
+}
