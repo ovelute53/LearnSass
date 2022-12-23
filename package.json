@@ -16,6 +16,11 @@
     "url": "https://github.com/ovelute53/LearnSass/issues"
   },
   "homepage": "https://github.com/ovelute53/LearnSass#readme",
+  "script": {
+    "start": "",
+    "sass": "sass scss: styles",
+    "watch": "npm run sass-- --watch"
+  },
   "dependencies": {
     "sass": "^1.57.1"
   }
